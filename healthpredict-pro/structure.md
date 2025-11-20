@@ -591,28 +591,3 @@ docs/
     ├── pitch_deck_links.md
     └── demo_script.md
 ````
-
----
-
-## Suggested Contents
-
-* `architecture/system_architecture.md`
-
-  * Text + images of the overall system
-* `architecture/mermaid_architecture.md`
-
-  * Mermaid diagram you already generated
-* `ui/wireframes_overview.md`
-
-  * Screens from Figma / FigJam
-* `ml/model_explanation.md`
-
-  * Problem, data, features, model choice, metrics, limitations
-* `pitch/pitch_deck_links.md`
-
-  * Links to Canva decks
-* `pitch/demo_script.md`
-
-  * Step-by-step script for live demo (what you click, what you say)
-
-```

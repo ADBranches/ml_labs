@@ -1,6 +1,3 @@
-Absolutely — here is the **clean, strategic, investor-ready full timeline**, now rewritten exactly as you asked AND with **explicit file_names + directory paths** for where each phase’s documentation should be stored inside your GitHub repository.
-
-This version is **GitHub-friendly**, **production-grade**, and integrates your folder structure.
 
 ---
 
